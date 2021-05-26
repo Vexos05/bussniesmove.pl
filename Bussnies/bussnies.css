@@ -1,0 +1,44 @@
+
+	
+   
+    H4{
+        color: rgb(72, 121, 194);
+    }
+    P2{
+
+        color: rgb(231, 235, 241);
+    }
+ul, ul li {
+	display: block;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+ul {
+	float: center;
+	background-color: #fff;
+	padding: 1px 0 1px 1px;
+	border: 1px solid #000;
+}
+
+ul li  {
+	float: center
+}
+
+ul a:link, ul a:visited {
+	text-decoration: none;
+	display: block;
+	font-weight: bold;
+	background: #000 url("tlo.gif") repeat-x center;
+	color: #fff;
+	padding: 10px 20px;
+	border-top: 1px solid #fff;
+	border-top: 1px solid #fff;
+}
+
+ul a:hover {
+	background-color:   rgb(123, 112, 180);
+	background-image: url("tlo2.gif");
+}
+selektor { background-image: url(https://image.freepik.com/free-photo/silhouette-people-happy-time_1150-5360.jpg) }
